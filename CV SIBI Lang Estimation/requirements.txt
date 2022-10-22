@@ -1,0 +1,7 @@
+Flask
+mediapipe
+numpy
+opencv_python
+pandas
+scikit_learn
+gunicorn
